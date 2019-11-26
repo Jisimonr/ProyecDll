@@ -1,0 +1,9 @@
+D:\Proyectos\ProyecDll\ProyecDll\ProyecDll\bin\Debug\netstandard2.0\ProyecDll.deps.json
+D:\Proyectos\ProyecDll\ProyecDll\ProyecDll\bin\Debug\netstandard2.0\ProyecDll.dll
+D:\Proyectos\ProyecDll\ProyecDll\ProyecDll\bin\Debug\netstandard2.0\ProyecDll.pdb
+D:\Proyectos\ProyecDll\ProyecDll\ProyecDll\obj\Debug\netstandard2.0\ProyecDll.csprojAssemblyReference.cache
+D:\Proyectos\ProyecDll\ProyecDll\ProyecDll\obj\Debug\netstandard2.0\ProyecDll.csproj.CoreCompileInputs.cache
+D:\Proyectos\ProyecDll\ProyecDll\ProyecDll\obj\Debug\netstandard2.0\ProyecDll.AssemblyInfoInputs.cache
+D:\Proyectos\ProyecDll\ProyecDll\ProyecDll\obj\Debug\netstandard2.0\ProyecDll.AssemblyInfo.cs
+D:\Proyectos\ProyecDll\ProyecDll\ProyecDll\obj\Debug\netstandard2.0\ProyecDll.dll
+D:\Proyectos\ProyecDll\ProyecDll\ProyecDll\obj\Debug\netstandard2.0\ProyecDll.pdb
