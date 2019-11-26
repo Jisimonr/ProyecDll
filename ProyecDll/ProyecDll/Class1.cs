@@ -14,5 +14,14 @@ namespace ProyecDll
             string tomatexto = texto.Substring(posicion);
             return "";
         }
+
+        public static bool StartsWithUpper(String str)
+        {
+            if (String.IsNullOrWhiteSpace(str))
+                return false;
+
+            Char ch = str[0];
+            return Char.IsUpper(ch);
+        }
     }
 }
